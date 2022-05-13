@@ -9,6 +9,7 @@ package com.gy.GitTest.Controller;
  */
 public class GitTest {
     public static void main(String[] args) {
-       System.out.println( "hello.get!");
+       System.out.println( "hello.git1!");
+        System.out.println( "hello.git2!");
     }
 }
